@@ -71,16 +71,12 @@ ML/
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd Geodata-Processing-ML
+   cd Geodata-Processing-using-Python-and-Machine-Learning
    ```
 3. **Create a virtual environment:**
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-4. **Install the dependencies:**
-   ```bash
-   pip install -r requirements.txt
    ```
 5. **Launch Jupyter Notebook:**
    ```bash
