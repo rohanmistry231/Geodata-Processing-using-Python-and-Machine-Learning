@@ -1,0 +1,65 @@
+<metadata tileno="L3-H44G07-096-049-05Apr19">
+<author>National Remote Sensing Centre,ISRO</author>
+<author_URL>https://bhuvan-app3.nrsc.gov.in/data/download/index.php</author_URL>
+<Data_Identification_Information>
+<Name_of_the_Dataset>L3_SAT_10B_v1_78.25E30.25N_H44G07_05Apr19</Name_of_the_Dataset>
+<Keywords>Resourcesat-2,LISS-III,24m,India,ISRO,NRSC,Ortho</Keywords>
+<Access_Constraints xml:space="preserve"> Registered Users </Access_Constraints>
+<Use_Constraints xml:space="preserve"> As per NRSC Data Dissemination Policy</Use_Constraints>
+<Purpose_of_creating_data xml:space="preserve">Ortho Corrected Imagery from IRS-Resourcesat-2 </Purpose_of_creating_data>
+<Edition>First</Edition>
+<Status>Completed</Status>
+</Data_Identification_Information>
+<Contact_Information>
+<Contact_Person xml:space="preserve"> Group Head,NDC </Contact_Person>
+<Organisation xml:space="preserve"> National Remote Sensing Centre</Organisation>
+<Mailing_Address>Balanagar</Mailing_Address>
+<City>Hyderabad</City>
+<Country>India</Country>
+<Contact_Telephone>04023884422/23</Contact_Telephone>
+<Contact_Fax>04023878158</Contact_Fax>
+<Contact_Email>gdndc@nrsc.gov.in</Contact_Email>
+</Contact_Information>
+<Geographic_Location>
+<Spheroid_Datum> GCS, WGS-1984</Spheroid_Datum>
+</Geographic_Location>
+<Coverage>
+<Upper_left>X=78.25E,Y=30.5N </Upper_left>
+<Upper_right>X=78.5E,Y=30.5N </Upper_right>
+<Lower_right>X=78.5E,Y=30.25N</Lower_right>
+<Lower_left>X=78.25E,Y=30.25N </Lower_left>
+</Coverage>
+<Citation>
+<Data_Prepared_by>NRSC</Data_Prepared_by>
+<Original_Source xml:space="preserve">Resourcesat-2 LISS-III Data</Original_Source>
+<Lineage>
+<Tile_Name>H44G07</Tile_Name>
+<Resolution xml:space="preserve">0.000225Deg</Resolution>
+<File_Format>Geotiff</File_Format>
+</Lineage>
+</Citation>
+<Metadata_Stamp>
+<Metadata_Date_Stamp>2021-07-15</Metadata_Date_Stamp>
+</Metadata_Stamp>
+<Dataset_Topic_Category>
+<Data_Identification_topic_category xml:space="preserve">Ortho Rectified Data</Data_Identification_topic_category>
+</Dataset_Topic_Category>
+<Language>
+<language>English</language>
+</Language>
+<Abstract_describing_the_data>
+<Data_Identification_Abstract xml:space="preserve"> This data is received from Linear Imaging and Self Scanning Sensor (LISS) which operates in three spectral bands in VNIR and one band in SWIR with 23.5 metre spatial resolution and a swath of 141 km.</Data_Identification_Abstract>
+</Abstract_describing_the_data>
+<For_Image_Data>
+<Name_of_the_Satellite>Resourcesat-2</Name_of_the_Satellite>
+<Sensor>LISS-III</Sensor>
+<Path>096</Path>
+<Row>049</Row>
+<Image_Acquired_From>Resourcesat-2</Image_Acquired_From>
+<Date_of_Pass>05Apr19</Date_of_Pass>
+<File_Format>Geotiff</File_Format>
+<Spatial_Resolution xml:space="preserve">0.000225 Deg</Spatial_Resolution>
+<Spatial_Resolution_Unit>deg</Spatial_Resolution_Unit>
+<Number_of_Bands>4</Number_of_Bands>
+</For_Image_Data>
+</metadata>

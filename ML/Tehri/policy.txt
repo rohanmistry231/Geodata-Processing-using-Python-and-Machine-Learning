@@ -1,0 +1,9 @@
+Privacy Policy:
+
+•	To enable the user to avail the service from this website, NRSC/ ISRO seek certain information from the user through a mandatory registration process, which includes certain mandatory fields and optional fields. The information provided by the user are purely on voluntary basis, in order to avail certain permitted services through this website as a registered user. NRSC/ ISRO hereby assures that the information provided by the user shall be used for internal records/ purpose only. 
+•	All users are hereby notified that, this website is enabled to automatically acquire following technical information, about the registered user and store them as part of secured website management.  
+1.	User IP addresses.
+2.	Internet domain from which service is accessed.
+3.	The type of web browser, operating system, date and time of web access, user name (if applicable) and name of the files and services accessed.
+•	This web site uses session and persistent cookies for technical purposes such as, to enable better navigation through the site, session management, or to allow users to customize their preferences for interacting with this web site. These cookies are strictly enabled to the selected user session. 
+If user does not wish to have session or persistent cookies stored on his/her machine, he/she can turn them off in the web browser. However, this may affect the functioning of some web applications of the intended service. 
