@@ -88,7 +88,7 @@ ML/
 
 ## 📧 Contact
 For any queries or collaboration opportunities, feel free to reach out:
-- **LinkedIn:** [yourprofile](https://www.linkedin.com/in/rohan-mistry-493987202/)
+- **LinkedIn:** [profile](https://www.linkedin.com/in/rohan-mistry-493987202/)
 - **Email:** rohanmistry231@gmail.com
 
 ---
